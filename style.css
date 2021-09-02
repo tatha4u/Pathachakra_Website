@@ -45,7 +45,7 @@ html {
 
 .navbar{
   font-size: 22px;
-  padding: 100px;
+  padding: 180px;
 }
 
 .navbar-light .navbar-nav .nav-link{
@@ -70,7 +70,7 @@ html {
 }
 
 #home{
-  padding-left: 150px;
+  padding-left: 230px;
   padding-bottom: 50px;
   background-color: rgb(233, 230, 230);
   opacity: 0.8;  
@@ -208,7 +208,7 @@ button.hover{
 }
 
 #slider img {
-    width: 100%;
+    width: 25%;
 }
 
 .indicators {
@@ -223,7 +223,7 @@ button.hover{
     width        : 15px;
     height       : 15px;
     border-radius: 50%;
-    background   : rgba(255, 255, 255, 0.5);
+    background   : rgba(219, 124, 15, 0.5);
     cursor       : pointer;
 }
 
